@@ -199,5 +199,3 @@ while runing:
     mostrar_score(textoX, textoY)
     # lineas que siempre van a estar
     pygame.display.update()
-
-#https://www.youtube.com/watch?v=FfWpgLFMI7w
