@@ -6,5 +6,5 @@ un calculo entre la bala y el invasor y saber si colicionaron, tambien tenemos m
 
 
 <img src="Screenshots/Screenshot1.png" width="600" >
-<img src="Screenshots/GameOver.png " width="600" >
+<img src="Screenshots/GameOver.png" width="600" >
 
